@@ -1,1 +1,5 @@
 # WEEK9_BSIT4I_Setting-up-database-migrate-and-seeding
+RIEGO, REGINA FE H.
+MAGDALAGA, SHEENA S.
+SABALE, TWINKLE
+EMATA, MONICA JOYCE
